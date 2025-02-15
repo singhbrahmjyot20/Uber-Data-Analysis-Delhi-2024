@@ -4,7 +4,7 @@
 This project analyzes Uber dummy ride data for January 2024 in Delhi, using SQL for data processing, Excel for cleaning storage, and Power BI for visualization.
 
 ## Files
-- **uber_jan2024_delhi.csv** - Cleaned data in CSV format.
+- **Uber Delhi Jan 2024 data.csv** - Cleaned data in CSV format.
 - **uber_jan2024_delhi.sql** - SQL queries for data cleaning and analysis.
 - **Uber Power BI Dashboard.pbix** - Power BI dashboard visualizing insights.
 
